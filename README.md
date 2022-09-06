@@ -1,1 +1,3 @@
 # FinancialDerivatives
+The main objective is to price and hedge plain-vanilla (forwards, futures, options, swaps) and more exotic derivative securities and, also, to explore how can they be used for investment and risk management. Investment opportunities offered by these derivative instruments and the risks they imply are analysed. 
+The valuation of derivatives is explored considering the non-arbitrage principle, the law of one price and consolidated methodologies such as the binomial tree model, the Black-Scholes- Merton option pricing model, and simulation-based risk neutral pricing approaches. 
